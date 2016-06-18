@@ -1,0 +1,33 @@
+{
+  "name": "repo-stars",
+  "version": "0.0.1",
+  "description": "Dead simple repository stars fetcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waxmarty/repo-stars.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Dead",
+    "Simple",
+    "Fetch",
+    "Repo",
+    "Stars",
+    "Repository"
+  ],
+  "author": "waxmarty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waxmarty/repo-stars/issues"
+  },
+  "homepage": "https://github.com/waxmarty/repo-stars#readme",
+  "dependencies": {
+    "es6-promise": "^3.2.1",
+    "express": "^4.14.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
